@@ -1,0 +1,15 @@
+@charset "utf-8";
+@keyframes multicolor {
+	 0% {color:  #000;}
+	 40% {color:#F00;}
+	  80% {color:#00F;}
+	   }
+		 @-webkit-keyframes multicolor /* Chrome */ {
+			   0% {color:  #000;}
+	            40% {color:#F00;}
+	              80% {color:#00F;} }
+				  .auto-style2
+				  { 
+				  font-size:40px; animation:multicolor 5s infinite; -webkit-animation:multicolor 5s infinite; /*Chrome */ 
+				  } /* CSS Document */
+

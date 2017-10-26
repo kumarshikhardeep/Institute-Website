@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>5.5</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>resume</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>photo</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>288</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/vernisage/</ImageTemplate>
+            <ImageTemplateName>Vernisage</ImageTemplateName>
+            <ImageWidth>720</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/wow/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/wow</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>0</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>1</SoundEnable>
+            <SoundFileName>C:/Users/Anubhav &amp; Shikhar/Desktop/02 - Ek Villain - Banjaara [DJMaza.Info].mp3</SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>vernisage</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/DSC_0075.JPG</url>
+                <title>DSC_0075</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/DSCN0440.JPG</url>
+                <title>DSCN0440</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/DSC00167.JPG</url>
+                <title>DSC00167</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/DSCN9174.JPG</url>
+                <title>DSCN9174</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Anubhav &amp; Shikhar/Desktop/slider/DSCN9423.JPG</url>
+                <title>DSCN9423</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

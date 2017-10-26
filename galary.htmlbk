@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Photo Gallary</title>
+<link href="animate heading.css" rel="stylesheet" type="text/css" />
+
+
+<style type="text/css">
+
+#n
+{
+	box-shadow:0px 0px 30px #FFCC00;
+	
+	
+}
+#n1
+{
+	box-shadow:0px 0px 30px #FFCC00;
+	
+	
+}
+
+
+#mar a
+{
+	color:#FFF;
+}
+h2
+{
+	color:aqua;
+	text-decoration:underline;
+}
+p
+{
+	text-align:justify;
+	width:680px;
+	color:#CCC;
+}
+
+
+#others a:hover
+{
+	color:#F3C;
+	text-decoration:none;
+	
+}
+#others a
+{
+	text-decoration:none;
+	color:#FFF;
+}
+
+.border
+{
+	top:200px;
+	right:00px;
+	position:fixed;
+	border-spacing:10px;
+	border:#039;
+	text-align:center;
+	
+	
+}
+.td1
+{
+	background-color:#2F002F;
+	border-radius:10px;
+	width:100px;
+	height:100px;
+	
+}
+</style>
+<script type="text/javascript" src="stmenu.js"></script></head>
+
+<body style="background-color:#723078;">
+
+<center>
+
+<table class="border">
+<tr><td class="td1" ><a href="homepage.html" style="text-decoration:none; color:#FFF;" ><img src="Home_Logo.jpg" /><br />Home</a></td></tr>
+<tr><td class="td1"><a href="#"  style="text-decoration:none; color:#FFF;" onclick="check()"><img src="contact_logo.jpg" /><br />Contact Us</a></td></tr>
+</table>
+<div style="width:1000px;height:auto;margin-top:-10px;margin-bottom:-10px;border-top-right-radius:150px;border-bottom-left-radius:150px;background-color:#723078">
+
+<div style="width:1000px;height:170px;border-top-right-radius:150px;background-color:#FFF">
+<img src="130620053919_rr_logo2.jpg" style="float:left" />
+<br />
+<span class="auto-style2" style="margin-left:-10px"><font style="font-size:45px;font-family:'MS Serif', 'New York', serif">R.R. Institute Of Modern Technology</font></span><br />
+<font size="4px" face="Comic Sans MS, cursive" color="#000000" style="alignment-adjust:central">ISO 9001-2008 Certified</font>
+
+</div>
+<script type="text/javascript">
+<!--
+stm_bm(["menu1c53",980,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","100%",0,0,1,2,"default","hand","",1,25],this);
+stm_bp("p0",[0,4,0,0,0,0,0,0,100,"",-2,"",-2,50,0,0,"#999999","transparent","line.jpg",3,0,0,"#000000","",0,0,0,"transparent","",3,"",0,0,0,"#FFFFF7","",3,"",0,0,0,"transparent","",3,"",0,0,0,"transparent","",0,"5","","","",1,1,1,1,1,1,1,1]);
+stm_ai("p0i0",[0,"About Us","","",-1,-1,0,"#","_self","","","","",0,0,0,"","",0,0,0,1,1,"#333333",1,"#de1774",0,"","",1,1,0,0,"#E6EFF9","#000000","#FFFFFF","#FFFFFF","bold 8pt 'Arial','Verdana'","bold 8pt 'Arial','Verdana'",0,0,"","","","",0,0,0],100,41);
+stm_aix("p0i1","p0i0",[0,"Infrastructure"],100,41);
+stm_aix("p0i2","p0i0",[0,"Departments"],100,41);
+stm_bp("p1",[1,4,0,0,2,6,1,0,100,"progid:DXImageTransform.Microsoft.RandomDissolve(,enabled=0,Duration=0.30)",12,"",-2,80,0,0,"#999999","#de1774","",3,0,0,"#CCCCCC"]);
+stm_aix("p1i0","p0i0",[0,"Agriculture Engineering ","","",-1,-1,0,"","_self","","","","",1,1,0,"","",0,0,0,0,1,"#333333",1,"#e0207a",0,"","",3,3,0,0,"#E6EFF9","#000000","#FFFFFF","#FFFFFF","7pt Verdana","7pt Verdana"],180,0);
+stm_aix("p1i1","p1i0",[0,"Applied Science & Humanities"],180,0);
+stm_aix("p1i2","p1i0",[0,"B.Arch."],180,0);
+stm_aix("p1i3","p1i0",[0,"Bio Technology"],180,0);
+stm_aix("p1i4","p1i0",[0,"Civil Engineering"],180,0);
+stm_aix("p1i5","p1i0",[0,"Chemical Engineering"],180,0);
+stm_aix("p1i6","p1i0",[0,"Computer Science & Engineering "],180,0);
+stm_aix("p1i7","p1i0",[0,"Electronics And Communication Engineering"],180,0);
+stm_aix("p1i8","p1i0",[0,"Electrical & Electronics Engineering"],180,0);
+stm_aix("p1i9","p1i0",[0,"Information Technology"],180,0);
+stm_aix("p1i10","p1i0",[0,"Mechanical Engineering"],180,0);
+stm_aix("p1i11","p1i0",[0,"Management Studies"],180,0);
+stm_ep();
+stm_aix("p0i3","p0i0",[0,"Anti Ragging"],100,41);
+stm_aix("p0i4","p0i0",[0,"Photo Gallary"],100,41);
+stm_aix("p0i5","p0i0",[0,"Courses"],100,41);
+stm_aix("p0i6","p0i0",[0,"Governing Body","","",-1,-1,0,""],100,41);
+stm_aix("p0i7","p0i6",[0,"Features"],100,41);
+stm_ep();
+stm_em();
+//-->
+</script>
+
+<div style="float:left;height:auto;width:280px;">
+<table style="text-align:justify;color:#FFF;height:340px;width:280px" id="others"">
+
+
+<tr><th style="color:aqua;text-align:center">OTHERS</th></tr>
+<tr><td>&#187; <a href="#" id="c">Scholorship Scheme</a></td></tr>
+<tr><td>&#187; <a href="#">GATE/IES/PSUs Module</a></td></tr>
+<tr><td>&#187; <a href="#">Download Prospesctus</a></td></tr>
+<tr><td>&#187; <a href="#">Admission Notice 2014-15</a></td></tr>
+<tr><td>&#187; <a href="#">3rd Mega Job Fair 14/06/2014</a></td></tr>
+<tr><td>&#187; <a href="#">UPSEE 2014</a></td></tr>
+<tr><td>&#187; <a href="#">UPTU</a></td></tr>
+<tr><td>&#187; <a href="#">Online Registration</a></td></tr>
+<tr><td>&#187; <a href="#">List Of Colleges</a></td></tr>
+<tr><td>&#187; <a href="#">Selection In Mega Job Fair-2014</a></td></tr>
+<tr><td>&#187; <a href="#">Contact Us</a></td></tr>
+
+</table>
+<br/><br/>
+
+
+
+</div>
+
+
+<div style="height:auto;width:720px;float:left" >
+
+
+
+
+</div>
+
+
+<script type="text/javascript">
+<!--
+stm_bm(["menu1c53",980,"","blank.gif",0,"","",0,0,250,0,1000,1,0,0,"","100%",0,0,1,2,"default","hand","",1,25],this);
+stm_bp("p0",[0,4,0,0,0,0,0,0,100,"",-2,"",-2,50,0,0,"#999999","transparent","line.jpg",3,0,0,"#000000","",0,0,0,"transparent","",3,"",0,0,0,"#FFFFF7","",3,"",0,0,0,"transparent","",3,"",0,0,0,"transparent","",0,"5","","","",1,1,1,1,1,1,1,1]);
+stm_ai("p0i0",[0,"Chairman\'s Word","","",-1,-1,0,"#","_self","","","","",0,0,0,"","",0,0,0,1,1,"#333333",1,"#de1774",0,"","",1,1,0,0,"#E6EFF9","#000000","#FFFFFF","#FFFFFF","bold 8pt 'Arial','Verdana'","bold 8pt 'Arial','Verdana'",0,0,"","","","",0,0,0],100,41);
+stm_aix("p0i1","p0i0",[0,"RR Pledge"],100,41);
+stm_aix("p0i2","p0i0",[0,"Education Loan"],100,41);
+stm_aix("p0i3","p0i1",[],100,41);
+stm_aix("p0i4","p0i0",[0,"Result"],100,41);
+stm_aix("p0i5","p0i0",[0,"Mission & Vission","","",-1,-1,0,""],100,41);
+stm_aix("p0i6","p0i5",[0,"Placement"],100,41);
+stm_aix("p0i7","p0i5",[0,"Fee Structure"],100,41);
+stm_ep();
+stm_em();
+//-->
+</script>
+<div style="height:90px;width:1000px;background-color:#FFF;border-bottom-left-radius:150px;border-bottom-right-radius:150px">
+<br />
+&copy; R.R. Institute Of Modern Technology
+Toll Free No. : 1800-3000-1820<br />
+Quick Links: <span id="spn"><a href="homepage.htm" style="text-decoration:none; color:#723078; font-weight:bold;">HOME</a> | <a href="aboutus.htm" style="text-decoration:none; color:#723078; font-weight:bold;">ABOUT US</a> | <a href="#" onClick="check()" style="text-decoration:none; color:#723078; font-weight:bold;" id="Button1">CONTACT US</a> | <a href="disclaimer.html" style="text-decoration:none; color:#723078; font-weight:bold;" target="_blank">DISCLAIMER</a></span>
+<br />
+
+</div>
+
+
+</div>
+
+</center>
+
+
+</body>
+</html>
+
+
+<script type="text/javascript">
+  function check()
+  {
+   confirm("Campus Address : NH-24, Bakshi Ka Talab \n Sitapur Road, Lucknow (U.P.), India \n Pin - 227202 \n Phone : 8756008853, 9161888853, \n 8004928854, 9335308853, 9335308854  \n Fax : 0522-2743297 \n Email : rrimtedu@sify.com ");
+
+  
+}  
+ 
+  </script>

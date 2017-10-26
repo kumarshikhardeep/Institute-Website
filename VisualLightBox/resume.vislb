@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>resume</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>true</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>400</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>21. Metro</ImageTemplate>
+            <ImageTemplateName>Metro</ImageTemplateName>
+            <ImageWidth>600</ImageWidth>
+            <OverlayColor>#723078</OverlayColor>
+            <PageBgColor>#723078</PageBgColor>
+            <PublishFileName>F:/site'/galary.html</PublishFileName>
+            <PublishIndex>galary.html</PublishIndex>
+            <PublishPath>F:/site'</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>3</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>160</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>Rotate</ThumbTemplate>
+            <ThumbTemplateName>Rotate</ThumbTemplateName>
+            <ThumbWidth>160</ThumbWidth>
+            <TitleType>text</TitleType>
+        </Settings>
+        <Images>
+            <Image>
+                <url>F:\site'\gallary images\DSC_0075.JPG</url>
+                <title>Campus
+</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN0440.JPG</url>
+                <title>Administrative Block</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC00074.JPG</url>
+                <title>EC Lab</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC00108.JPG</url>
+                <title>Electrical Lab</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC00167.JPG</url>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\lecture_hall.jpg</url>
+                <title>Lecture Hall</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\pic9L.jpg</url>
+                <title>Mechanical Lab</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\pic6L.jpg</url>
+                <title>Workshop</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\library.jpg</url>
+                <title>Library</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC00030.JPG</url>
+                <title> </title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN7730.JPG</url>
+                <title> </title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\drawing.jpg</url>
+                <title>Drawing Hall</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN6729.JPG</url>
+                <title>Chemistry Lab</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN8625.JPG</url>
+                <title>Graphics Lab</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC_0112.JPG</url>
+                <title>Mess</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC01000.JPG</url>
+                <title> </title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN0345.JPG</url>
+                <title>Pragyan</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSC01028.JPG</url>
+                <title>Prize Distribution</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN6658.JPG</url>
+                <title>Mr. &amp; Ms. RR</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN7042.JPG</url>
+                <title>Seminar
+</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\DSCN9423.JPG</url>
+                <title>Convocation</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\hostel_girl.jpg</url>
+                <title>Girl's Hostel</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\pic3L.jpg</url>
+                <title>Boy's Hostel</title>
+            </Image>
+            <Image>
+                <url>F:\site'\gallary images\pic5L.jpg</url>
+                <title>Canteen</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
